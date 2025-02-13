@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  background-color: blueviolet;
+  display: flex;
+  gap: 10px;
+}
+
+.anime {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  border: 1px solid black;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  animation-name: move;
+  position: relative;
+}
+.dame {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  border: 1px solid black;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  animation-name: move;
+  position: relative;
+}
+.game {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  border: 1px solid black;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  animation-name: move;
+  position: relative;
+}
+
+@keyframes move {
+  from {
+    top: 0px;
+    left: 0px;
+  }
+  to {
+    left: 0px;
+    left: 500px;
+  }
+}
