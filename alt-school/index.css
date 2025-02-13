@@ -1,0 +1,560 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 100%;
+    height: 200vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+.container-1 {
+    width: 90%;
+    height: 90%;
+    /* background-color: purple; */
+
+  
+    
+}
+
+
+header {
+    width: 100%;
+    height: 6%;
+    background-color: white;
+    
+}
+
+.holder-1 {
+    width: 100%;
+    height: 100%;
+    /* background-color: rgb(0, 32, 128); */
+    display: flex;
+    
+}
+.let-1 {    
+    width: 20%;
+}
+.tt-1 {
+    width: 100%;
+    height: 50%;
+    /* background-color: aqua; */
+    font-size: 20px;
+    font-weight: bold;
+}
+.f-1 {
+    width: 70%;
+    height: 40%;
+    /* background-color: yellow; */
+    display: flex;
+    margin-top: 15px;
+}
+.rl-line {
+    width: 50px;
+    height: 3px;
+    font: bold;
+    margin-top: 12px;
+    background-color: black;
+
+}
+
+
+
+  
+.carry-1 {
+    width: 40%;
+    height: 50%;
+    background-color: green;
+    
+}
+
+.home-1 {
+    width: 60%;
+    height: 100%;
+    /* background-color: blue; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 21px;
+    transition: all 100ms;
+
+}
+
+
+.earn-1 {
+    width: 30%;
+    height: 100%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.holder-2 {
+    width:100%;
+    height: 70%;
+    /* background-color: aqua; */
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    text-align: center;
+    gap: 20px;
+
+}
+
+
+.btn-1 {
+    padding: 10px 10px;
+    background-color:rgb(241, 233, 233);
+    border: none;
+    margin-top: 6px;
+    color: rgb(111, 193, 248);
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.btn-2 {
+    padding:10px 10px;
+    background-color: white;
+    border: none;
+    margin-top: 6px;
+
+}
+
+.btn-3 {
+    padding: 17px 25px;
+    background-color:rgb(0, 99, 228) ;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+
+}
+
+
+.main-body {
+    width: 100%;
+    height: 90%;
+    /* background-color: green; */
+    
+}
+
+.body-1 {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box-1 {
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    color: white;
+}
+
+.p-1 {
+    width: 100%;
+    height: 40%;
+    /* background-color:purple; */
+    display: flex;
+    justify-content: center;
+}
+.maintain-1 {
+    width: 100%;
+    height: 100%;
+    /* background-color: green; */
+}
+.lt-1 {
+    width: 100%;
+    height: 21%;
+    /* background-color: aqua; */
+    font-size: 25px;
+    font-weight: bold;
+}
+.dif-1 {
+    width: 60%;
+    height: 30%;
+    /* background-color: yellow; */
+    display: flex;
+    margin-top: 15px;
+}
+.sml-line {
+    width: 50px;
+    height: 3px;
+    font: bold;
+    margin-top: 17px;
+    background-color: white;
+
+}
+
+.Logo-1 {
+    width: 70%;
+    height: 18%;
+    /* background-color: blue; */
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.png-1 {
+    width: 20%;
+    height: 40%;
+    background-color: black;
+    background-image: url(./Screenshot\ 2024-08-08\ 232835.png);
+
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.png-2 {
+    width: 20%;
+    height: 40%;
+    background-color: rgb(255, 0, 179);
+    background-image: url(./Screenshot\ 2024-08-08\ 232848.png);
+    background-size: contain;
+}
+.png-3 {
+    width: 20%;
+    height: 40%;
+    background-color: green;
+    background-image: url(./Screenshot\ 2024-08-08\ 232906.png);
+    background-size: contain;
+}
+.png-4 {
+    width: 20%;
+    height: 40%;
+    background-color: pink;
+    background-image: url(./Screenshot\ 2024-08-08\ 232913.png);
+    background-size: contain;
+}
+
+
+
+.tel-1 {
+    width: 70%;
+    height: 20%;
+    /* background-color: brown; */
+    color: gray;
+}
+.year-1 {
+    width: 100%;
+    height: 20%;
+    /* background-color: tomato; */
+    color: white;
+}
+
+.par-1 {
+    width: 100%;
+    height: 20%;
+    /* background-color: olivedrab; */
+    display: flex;
+    gap: 10px;
+    
+}
+
+.g-t {
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.i-n {
+    font-size: 18px;
+}
+.p-2 {
+    width: 100%;
+    height: 17%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+
+}
+
+.v-r {
+    width: 60%;
+    height: 70%;
+    /* background-color: pink; */
+    font-size: 14px;
+    
+}
+
+.img-1 {
+    width: 40%;
+    height: 60%;
+    /* background-color: orange; */
+    display: flex;
+    align-items: center;
+}
+.mg-1 {
+    width: 83%;
+    height: 83%;
+    background-color: aqua;
+    background-image: url(./Screenshot\ 2024-08-08\ 192604.png);
+    background-size: contain;
+   
+    
+}
+
+
+.p-3 {
+    width: 100%;
+    height: 16%;
+    /* background-color: green; */
+    display: flex;
+   
+}
+
+.a-s {
+    width: 55%;
+    height: 95%;
+    /* background-color: blanchedalmond; */
+}
+.img-2 {
+    width: 45%;
+    height: 100%;
+    /* background-color: cadetblue; */
+    display: flex;
+    justify-content: center
+}
+
+.mg-2 {
+    width: 90%;
+    height: 75%;
+    background-color: purple;
+    background-image: url(./Screenshot\ 2024-08-08\ 192615.png);
+    background-size: contain;
+   
+}
+
+
+
+.box-2 {
+    width: 80%;
+    height: 100%;
+    /* background-color: pink; */
+}
+
+.drm-1{
+    width: 100%;
+    height: 34%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.a-1 {
+    width: 20%;
+    height: 80%;
+    /* background-color: red; */
+    color: gray;
+    
+
+}
+.key-1 {
+    width: 100%;
+    height: 60%;
+    /* background-color: aqua; */
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.S-c {
+    font-size: 22px;
+    font-weight: bold;
+    width: 40%;
+    height: 10%;
+    /* background-color: red; */
+    color: white;
+    
+}
+
+
+
+.b-2 {
+    width: 20%;
+    height: 100%;
+    /* background-color: blue; */
+    color: gray;
+}
+
+.key-2 {
+    width: 100%;
+    height: 60%;
+    /* background-color: blue; */
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.C-p {
+    font-size: 22px;
+    width: 40%;
+    height: 10%;
+    color: white;
+    font-weight: bold;
+}
+
+
+.c-3 {
+    width: 20%;
+    height: 100%;
+    /* background-color: green; */
+    color: gray;
+}
+.key-3 {
+    width: 100%;
+    height: 60%;
+    /* background-color: purple; */
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.Abt-1 {
+    width: 100%;
+    height: 10%;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+   
+
+}
+
+.d-4 {
+    width: 20%;
+    height: 100%;
+    /* background-color: black; */
+    color: gray;
+}
+
+.key-4 {
+    width: 100%;
+    height: 100%;
+    /* background-color: orange; */
+    margin-top: 15px;
+    font-size: 16px;
+}
+.R-s {
+    width: 100%;
+    height: 10%;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+.box-3 {
+    width: 100%;
+    height: 50%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+
+   
+    
+}
+
+.e-5 {
+    width: 20%;
+    height: 100%;
+    /* background-color: red; */
+    color: gray;
+}
+
+
+
+.key-5 {
+    width: 100%;
+    height: 60%;
+    /* background-color: purple; */
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.F-c{
+    width: 100%;
+    height: 10%;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+   
+
+}
+
+.f-6 {
+    width: 20%;
+    height: 100%;
+    /* background-color: blue; */
+    color: gray;
+}
+
+.key-6 {
+    width: 100%;
+    height: 60%;
+    /* background-color: pink; */
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.D-p{
+    width: 100%;
+    height: 10%;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+   
+
+}
+
+.foota-1 {
+    width: 100%;
+    height: 15%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line-2 {
+    width: 100%;
+    height: 2px;
+    background-color: gray;
+    border: none;
+   
+}
+
+.middle-man {
+    width: 100%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+
+.la-sch {
+    width: 45%;
+    height: 20%;
+    /* background-color: green; */
+    margin-top: 50px;
+    color: white;
+}
+
+.link-1 {
+    color: gray;
+    cursor: pointer;
+}
